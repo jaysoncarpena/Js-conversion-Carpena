@@ -1,0 +1,14 @@
+.container {
+    border: 5px solid gray;
+    border-radius: 5px;
+    max-width: 500px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+}
+.input-btn {
+    margin: 10px 100px;
+    padding: 1px 20px;
+}
